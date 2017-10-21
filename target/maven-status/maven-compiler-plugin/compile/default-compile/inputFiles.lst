@@ -1,0 +1,15 @@
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\repository\PropostaRepository.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\domain\BaseEntity.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\domain\Estado.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\domain\Usuario.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\repository\impl\AbstractRepositoryImpl.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\RootApplication.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\repository\LogTransacaoRepository.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\domain\LogTransacao.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\enums\EnumUtils.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\interceptors\LogTransacaoInterceptor.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\domain\Proposta.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\repository\EstadoRepository.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\domain\Cliente.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\repository\impl\Repository.java
+D:\rpco\TrabalhoJavaEE\src\main\java\br\com\trabjee\services\PropostaService.java

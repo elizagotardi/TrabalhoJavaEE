@@ -1,0 +1,4 @@
+<dataset>
+	<vbn_log id="100001" tipo_operacao="EXTRATO" data_operacao="2016-01-06" usuario="Rodrigo Postai" detalhes="Consulta de extrato"/>
+	<vbn_log id="100002" tipo_operacao="SAQUE" data_operacao="2016-01-06" usuario="Rodrigo Postai" detalhes="Realizacao de saque"/>
+</dataset>

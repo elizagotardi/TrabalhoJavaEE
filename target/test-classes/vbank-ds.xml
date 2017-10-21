@@ -1,0 +1,24 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> <datasources xmlns="http://www.jboss.org/ironjacamar/schema" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.jboss.org/ironjacamar/schema 
+	http://docs.jboss.org/ironjacamar/schema/datasources_1_0.xsd"> <datasource 
+	jndi-name="java:jboss/datasources/sabium" pool-name="SabiumPool" enabled="true" 
+	use-java-context="true"> <connection-url>jdbc:postgresql://localhost:15432/sabium</connection-url> 
+	<driver>PostGres</driver> <security> <user-name>sabium</user-name> <password>sabium</password> 
+	</security> </datasource> <drivers> <driver name="PostGres" module="org.postgresql"> 
+	<datasource-class>org.postgresql.ds.PGPoolingDataSource</datasource-class> 
+	</driver> </drivers> </datasources> -->
+
+<datasources xmlns="http://www.jboss.org/ironjacamar/schema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.jboss.org/ironjacamar/schema http://docs.jboss.org/ironjacamar/schema/datasources_1_0.xsd">
+	<datasource jndi-name="java:jboss/datasources/vbank"
+		pool-name="VBanckPool" enabled="true"
+		use-java-context="true">
+		<connection-url>jdbc:h2:mem:vbank;DB_CLOSE_DELAY=-1</connection-url>
+		<driver>h2</driver>
+		<security>
+			<user-name>sa</user-name>
+			<password>sa</password>
+		</security>
+	</datasource>
+</datasources>

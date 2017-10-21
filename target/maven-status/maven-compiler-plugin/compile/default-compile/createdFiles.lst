@@ -1,0 +1,15 @@
+br\com\trabjee\repository\LogTransacaoRepository.class
+br\com\trabjee\RootApplication.class
+br\com\trabjee\domain\Cliente.class
+br\com\trabjee\enums\EnumUtils.class
+br\com\trabjee\repository\impl\Repository.class
+br\com\trabjee\domain\Estado.class
+br\com\trabjee\repository\PropostaRepository.class
+br\com\trabjee\domain\LogTransacao.class
+br\com\trabjee\interceptors\LogTransacaoInterceptor.class
+br\com\trabjee\repository\impl\AbstractRepositoryImpl.class
+br\com\trabjee\domain\BaseEntity.class
+br\com\trabjee\domain\Usuario.class
+br\com\trabjee\domain\Proposta.class
+br\com\trabjee\repository\EstadoRepository.class
+br\com\trabjee\services\PropostaService.class
